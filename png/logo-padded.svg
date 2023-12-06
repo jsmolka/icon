@@ -1,5 +1,7 @@
 <!-- Padded with with 10% empty space on each size, 409.6px in 512px viewbox -->
-<svg width="512" height="512" viewBox="0 0 512 512" version="1.1" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="0 0 512 512" version="1.1" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="currentColor" fill-opacity="0" />
   <g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="14.4">
     <path id="icon0" d="m333.17 63.501s-34.746-13.888-67.83 4.2034c-39.76 21.742-41.194 42.428-69.179 69.358-39.486 37.996-51.643 50.658-53.718 75.974 2.0155 30.354 6.709 46.944 86.448 67.646 44.471 12.651 64.282 14.246 61.723 16.485-18.572 16.25-18.104 15.905-51.755 38.338-17.362 11.574-27.566 12.862-37.619 12.401-12.932-0.59374-19.718-4.4002-42.237-18.299-15.815-9.7616-31.322-10.203-31.322-10.203" />
     <path id="icon1" d="m378.18 111.86c-30.107-17.493-39.734-22.993-58.964-25.53-19.218-2.5355-39.758 2.3085-54.891 10.891" />
