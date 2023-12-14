@@ -3,6 +3,6 @@ My logo.
 
 ## Palette
 - `#242933` dark
-- `#eceff4` light
+- `#ebedf2` light
 
 ![logo](favicon.svg)
